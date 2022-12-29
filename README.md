@@ -18,7 +18,7 @@ Programming Skils :
   - Sql
   - Laravel
   - C++
-  - Solve Problem Solving Using C-- ( CodeForces )
+  - Solve Problem Solving Using C++ ( CodeForces )
 
 Other Skils :
 
