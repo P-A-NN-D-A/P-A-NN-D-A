@@ -5,8 +5,8 @@
 
 About Me :
 
-Now I am a Student In Artificial Intelligence In Kafr El-Sheikh Unevirsity
-Now I Learn Backend Php Laravel ( Self Study )
+  - Now I am a Student In Artificial Intelligence In Kafr El-Sheikh Unevirsity
+  - Now I Learn Backend Php Laravel ( Self Study )
 
 Programming Skils : 
 
