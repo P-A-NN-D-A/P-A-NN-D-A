@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Omar
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Backend ( Php Laravel )
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming ( Backend And Cyber Security )
+- 🌱 I’m currently learning Backend ( Php + Laravel )
 - 📫 You can reach me by my email om4rgh4zy@gmail.com
 
+About Me :
 
+Now I am a Student In Artificial Intelligence In Kafr El-Sheikh Unevirsity
+Now I Learn Backend Php Laravel ( Self Study )
 
 Programming Skils : 
 
@@ -15,6 +17,8 @@ Programming Skils :
   - Database
   - Sql
   - Laravel
+  - C++
+  - Solve Problem Solving Using C-- ( CodeForces )
 
 Other Skils :
 
