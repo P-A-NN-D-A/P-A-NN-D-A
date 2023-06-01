@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omar
-- 👀 I’m interested in programming ( Backend And Cyber Security )
-- 🌱 I’m currently learning Backend ( Php + Laravel )
-- 📫 You can reach me by my email om4rgh4zy@gmail.com
+- 👀 I’m interested in programming ( Backend Laravel & Flutter & Cyber Security )
+- 🌱 I’m currently learning Mobile Developing ( Flutter )
+- 📫 You can reach me by email om4rgh4zy@gmail.com
 
 About Me :
 
@@ -14,6 +14,8 @@ Programming Skils :
   - Css
   - Php
   - Php OOp
+  - dart
+  - flutter
   - Database
   - Sql
   - Laravel
