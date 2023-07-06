@@ -26,7 +26,7 @@ Mobile Skiks :
   - Flutter
   - Firebase
   - MVC
-  - Clean Archetecture
+  - Clean Architecture
   - Shared Prefrence
   - Hive
   - Sqflite
