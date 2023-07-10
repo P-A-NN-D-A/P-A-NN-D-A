@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar
 - 👀 I’m interested in programming ( Backend Laravel & Flutter & Cyber Security )
-- 📫 You can reach me by email om4rgh4zy@gmail.com
+- 📫 You can mail me => om4rgh4zy@gmail.com
 
 About Me :
 
